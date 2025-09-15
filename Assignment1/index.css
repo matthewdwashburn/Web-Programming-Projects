@@ -1,0 +1,28 @@
+/* 
+Author: Matthew Washburn, Steven Yackel
+Project: Intro Website Design
+Version: Fall 2025 
+*/
+body {
+    background-color: rgb(0, 255, 110);
+}
+
+div {
+    font-style: normal;
+}
+
+.colorLimeGreen {
+    color: limegreen;
+}
+
+.big {
+    font-size: 30px;
+}
+
+#firstDiv {
+    font-weight: bold;
+}
+
+.error {
+    color: red;
+}
