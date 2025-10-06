@@ -1,0 +1,55 @@
+/*
+Author: Matthew Washburn
+Version: Fall 2025
+*/
+
+/* black page */
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+/* normal font */
+div {
+    font-style: normal;
+}
+
+/* fancy green button style */
+.greenButton {
+    background-color: rgb(0, 255, 136);
+    /* green background */
+    color: black;
+    /* black text */
+    border: 2px solid #717171;
+    /* dark gray border */
+    padding: 10px 20px;
+    /* some spacing */
+    border-radius: 5px;
+    /* slightly rounded corners */
+    cursor: pointer;
+    /* pointer on hover */
+}
+
+/* fancy hover over button style */
+.greenButton:hover {
+    background-color: #00ab53;
+    /* darker green when hovered */
+}
+
+/* white text */
+.colorWhite {
+    color: rgb(255, 255, 255);
+}
+
+/* big font */
+.big {
+    font-size: 30px;
+}
+
+#firstDiv {
+    font-weight: bold;
+}
+
+/* red text */
+.error {
+    color: red;
+}

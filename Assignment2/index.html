@@ -1,0 +1,63 @@
+<!-- 
+ Author: Matthew Washburn
+ Version: Fall 2025 
+-->
+
+<html>
+<!-- Register for all three stretch levels -->
+<script type="module">
+    import { registerStretchLevels } from "https://spazard1.github.io/webprogramming2025/src/stretchLevels.module.js";
+
+    window.addEventListener("load", () => {
+        registerStretchLevels([
+            "Qui-gon Jinn Level",
+            "Obi-wan Kenobi Level",
+            "Luke Skywalker Level"
+        ]);
+    });
+</script>
+
+<head>
+    <title>Web Requests</title>
+    <!-- External stylesheet and script -->
+    <link rel="stylesheet" type="text/css" href="index.css" />
+    <script src="index.js"></script>
+</head>
+
+<body>
+    <!-- User input fields -->
+    <div class="colorWhite">First Name: <input type="text" id="firstName"></div>
+    <div class="colorWhite">Last Name: <input type="text" id="lastName"></div>
+    <div class="colorWhite">Favorite Star Wars Character: <input type="text" id="favoriteCharacter"></div>
+    <br>
+
+    <!-- Main action buttons -->
+    <div>
+        <input type="button" value="FORCE PULL" id="forcePull" class="greenButton">
+        <input type="button" value="FORCE PUSH" id="forcePush" class="greenButton">
+        <input type="button" value="FORCE READ" id="forceRead" class="greenButton">
+        <input type="button" value="DELETE" id="deleteButton" class="greenButton">
+    </div>
+
+    <!-- Output areas -->
+    <div id="randomIndex" class="colorWhite"></div>
+    <div id="results" class="colorWhite"></div>
+    <br>
+
+    <!-- Additional input -->
+    <div class="colorWhite">View Date: <input type="text" id="viewDate"></div>
+    <br>
+    <br>
+
+    <!-- Extra action buttons -->
+    <div>
+        <input type="button" value="FORCE INSIGHT" id="forceInsight" class="greenButton">
+        <input type="button" value="WATCH MOVIES" id="watchMovies" class="greenButton">
+    </div>
+
+    <!-- Error and secondary output areas -->
+    <div id="errorMessage" class="error"></div>
+    <div id="results2" class="colorWhite"></div>
+</body>
+
+</html>
