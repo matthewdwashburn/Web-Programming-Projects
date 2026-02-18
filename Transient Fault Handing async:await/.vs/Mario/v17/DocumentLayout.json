@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\lecture 5\\mario\\mario\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|solutionrelative:mario\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\lecture 5\\mario\\mario\\services\\imarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|solutionrelative:mario\\services\\imarioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\lecture 5\\mario\\mario\\controllers\\mariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|solutionrelative:mario\\controllers\\mariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\lecture 5\\mario\\mario\\services\\marioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|solutionrelative:mario\\services\\marioservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\lecture 5\\mario\\mario\\wwwroot\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|solutionrelative:mario\\wwwroot\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\lecture 5\\mario\\mario\\wwwroot\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|solutionrelative:mario\\wwwroot\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\lecture 5\\mario\\mario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|solutionrelative:mario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\lecture 5\\mario\\mario\\entities\\marioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F15456EC-EFC9-44E1-9042-29DBA262DB28}|Mario\\Mario.csproj|solutionrelative:mario\\entities\\marioentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\wwwroot\\index.js",
+              "RelativeDocumentMoniker": "Mario\\wwwroot\\index.js",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\wwwroot\\index.js",
+              "RelativeToolTip": "Mario\\wwwroot\\index.js",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAgwGoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-10T21:58:08.963Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\wwwroot\\index.css",
+              "RelativeDocumentMoniker": "Mario\\wwwroot\\index.css",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\wwwroot\\index.css",
+              "RelativeToolTip": "Mario\\wwwroot\\index.css",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-10T21:57:53.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Mario\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\wwwroot\\index.html",
+              "RelativeToolTip": "Mario\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-10T21:57:56.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\Services\\IMarioServices.cs",
+              "RelativeDocumentMoniker": "Mario\\Services\\IMarioServices.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\Services\\IMarioServices.cs",
+              "RelativeToolTip": "Mario\\Services\\IMarioServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T04:08:59.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarioController.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\Controllers\\MarioController.cs",
+              "RelativeDocumentMoniker": "Mario\\Controllers\\MarioController.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\Controllers\\MarioController.cs",
+              "RelativeToolTip": "Mario\\Controllers\\MarioController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T23:01:54.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MarioServices.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\Services\\MarioServices.cs",
+              "RelativeDocumentMoniker": "Mario\\Services\\MarioServices.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\Services\\MarioServices.cs",
+              "RelativeToolTip": "Mario\\Services\\MarioServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T23:04:36.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\Program.cs",
+              "RelativeDocumentMoniker": "Mario\\Program.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\Program.cs",
+              "RelativeToolTip": "Mario\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T22:57:04.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MarioEntity.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\Entities\\MarioEntity.cs",
+              "RelativeDocumentMoniker": "Mario\\Entities\\MarioEntity.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Lecture 5\\Mario\\Mario\\Entities\\MarioEntity.cs",
+              "RelativeToolTip": "Mario\\Entities\\MarioEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T23:07:11.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

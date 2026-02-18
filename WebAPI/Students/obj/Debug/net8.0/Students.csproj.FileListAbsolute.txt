@@ -1,0 +1,72 @@
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\bin\Debug\net8.0\appsettings.json
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\bin\Debug\net8.0\Students.staticwebassets.runtime.json
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\bin\Debug\net8.0\Students.staticwebassets.endpoints.json
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\bin\Debug\net8.0\Students.exe
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\bin\Debug\net8.0\Students.deps.json
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\bin\Debug\net8.0\Students.runtimeconfig.json
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\bin\Debug\net8.0\Students.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\bin\Debug\net8.0\Students.pdb
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\Students.csproj.AssemblyReference.cache
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\Students.AssemblyInfoInputs.cache
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\Students.AssemblyInfo.cs
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\Students.csproj.CoreCompileInputs.cache
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\Students.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\Students.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\scopedcss\bundle\Students.styles.css
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\Students.csproj.Up2Date
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\Students.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\refint\Students.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\Students.pdb
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\Students.genruntimeconfig.cache
+C:\Users\proni\Downloads\Visual Studio 2022\Students\Students\obj\Debug\net8.0\ref\Students.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\bin\Debug\net8.0\appsettings.json
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\bin\Debug\net8.0\Students.staticwebassets.runtime.json
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\bin\Debug\net8.0\Students.staticwebassets.endpoints.json
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\bin\Debug\net8.0\Students.exe
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\bin\Debug\net8.0\Students.deps.json
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\bin\Debug\net8.0\Students.runtimeconfig.json
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\bin\Debug\net8.0\Students.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\bin\Debug\net8.0\Students.pdb
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\Students.csproj.AssemblyReference.cache
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\Students.AssemblyInfoInputs.cache
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\Students.AssemblyInfo.cs
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\Students.csproj.CoreCompileInputs.cache
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\Students.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\Students.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\scopedcss\bundle\Students.styles.css
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\Students.csproj.Up2Date
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\Students.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\refint\Students.dll
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\Students.pdb
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\Students.genruntimeconfig.cache
+C:\Users\proni\Downloads\Visual Studio 2022\Project 3\Students\obj\Debug\net8.0\ref\Students.dll

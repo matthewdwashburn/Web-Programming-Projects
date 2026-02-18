@@ -1,0 +1,45 @@
+<!-- 
+ Author: Matthew Washburn
+ Version: Fall 2025 
+-->
+
+<html>
+<!-- Register for stretch levels -->
+<script type="module">
+    import { registerStretchLevels } from "https://spazard1.github.io/webprogramming2025/src/stretchLevels.module.js";
+
+    window.addEventListener("load", () => {
+        registerStretchLevels([
+            "Glados Level",
+            "Wheatley Level"
+        ]);
+    });
+</script>
+
+<head>
+    <title>Web Requests</title>
+    <!-- External stylesheet and script -->
+    <link rel="stylesheet" type="text/css" href="index.css?v=2" />
+    <script src="index.js"></script>
+</head>
+
+<body>
+    <!--  input fields -->
+    <div class="colorWhite">User Name: <input type="text" id="userName"></div>
+    <div class="colorWhite">Password: <input type="text" id="password"></div>
+    <br>
+    <!-- Main action buttons -->
+    <div>
+        <input type="button" value="QUOTE" id="getQuote" class="air-button">
+        <input type="button" value="LOG IN" id="logIn" class="water-button">
+        <input type="button" value="LOG OUT" id="logOut" class="fire-button">
+    </div>
+    <br>
+    <!-- Output areas -->
+    <div id="results" class="colorWhite"></div>
+    <br>
+    <!-- Error and secondary output areas -->
+    <div id="errorMessage" class="error"></div>
+</body>
+
+</html>

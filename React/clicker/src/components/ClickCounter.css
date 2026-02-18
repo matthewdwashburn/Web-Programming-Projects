@@ -1,0 +1,11 @@
+/*Author: Matthew Washburn
+Version: Fall 2025*/
+
+/*Element Button Customization*/
+.buttonContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+    gap: 1rem;
+}

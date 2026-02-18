@@ -1,0 +1,6 @@
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Kuscotopia\wwwroot\index.js
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Kuscotopia\wwwroot\index.css
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Kuscotopia\wwwroot\index.html
+wwwroot\index.css
+wwwroot\index.html
+wwwroot\index.js

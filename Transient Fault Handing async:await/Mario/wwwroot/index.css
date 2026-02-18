@@ -1,0 +1,129 @@
+/*
+Author: Matthew Washburn
+Version: Fall 2025
+*/
+
+/* black page */
+body {
+    background: linear-gradient(to bottom, #00efff 50%, #00ab53 50%);
+}
+
+
+#marioDiv {
+    position: absolute;
+    top: 31.9%;
+    left: 5%;
+    transition: left 0.5s ease-in-out, top 0.3s ease-in-out; 
+    /* Smooth transitions */
+}
+/*Mario Classes*/
+#mario {
+    width: 100px;
+    height: 120px;
+}
+
+
+.mario-dead {
+    height: 187px;
+    width: 334px;
+}
+
+.mario-alive {
+    height: 120px;
+   width: 100px;
+}
+
+.marioDiv-dead {
+    top: 31.4%;
+}
+
+.marioDiv-alive {
+    top: 31.9%;
+    left: 5%;
+}
+
+/* Mario start position */
+.marioDiv-start {
+    left: 5%;
+}
+
+.goal-pole {
+    position: fixed;
+    top: 4.7%;
+    left: 85%;
+    width: 67px;
+    height: 287px;
+}
+
+.cloud-1 {
+    top: 70px;
+    left: 100px;
+    width: 140px;
+    height: 102px;
+    position: fixed;
+}
+
+.cloud-2 {
+    top: 30px;
+    left: 400px;
+    width: 140px;
+    height: 102px;
+    position: fixed;
+}
+
+.cloud-3 {
+    top: 50px;
+    left: 675px;
+    width: 140px;
+    height: 102px;
+    position: fixed;
+}
+
+
+
+
+/* normal font */
+div {
+    font-style: normal;
+}
+
+/* fancy green button style */
+.greenButton {
+    background-color: rgb(0, 255, 136);
+    /* green background */
+    color: black;
+    /* black text */
+    border: 2px solid #717171;
+    /* dark gray border */
+    padding: 10px 20px;
+    /* some spacing */
+    border-radius: 5px;
+    /* slightly rounded corners */
+    cursor: pointer;
+    /* pointer on hover */
+}
+
+/* fancy hover over button style */
+.greenButton:hover {
+    background-color: #00ab53;
+    /* darker green when hovered */
+}
+
+/* white text */
+.colorWhite {
+    color: rgb(255, 255, 255);
+}
+
+/* big font */
+.big {
+    font-size: 30px;
+}
+
+#firstDiv {
+    font-weight: bold;
+}
+
+/* red text */
+.error {
+    color: red;
+}

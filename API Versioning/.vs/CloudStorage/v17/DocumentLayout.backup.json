@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\cloud storage\\cloudstorage\\services\\keyvaultprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|solutionrelative:cloudstorage\\services\\keyvaultprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\cloud storage\\cloudstorage\\services\\connectionstringprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|solutionrelative:cloudstorage\\services\\connectionstringprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\cloud storage\\cloudstorage\\services\\blobserviceclientprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|solutionrelative:cloudstorage\\services\\blobserviceclientprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\cloud storage\\cloudstorage\\models\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|solutionrelative:cloudstorage\\models\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\cloud storage\\cloudstorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|solutionrelative:cloudstorage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\cloud storage\\cloudstorage\\controllers\\1.1\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|solutionrelative:cloudstorage\\controllers\\1.1\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\cloud storage\\cloudstorage\\entities\\1.1\\imageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|solutionrelative:cloudstorage\\entities\\1.1\\imageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\cloud storage\\cloudstorage\\entities\\1.0\\imageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|solutionrelative:cloudstorage\\entities\\1.0\\imageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\cloud storage\\cloudstorage\\controllers\\1.0\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|solutionrelative:cloudstorage\\controllers\\1.0\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\cloud storage\\cloudstorage\\services\\usernameprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B3EAC8-3F3D-46ED-8533-40E7C259290A}|CloudStorage\\CloudStorage.csproj|solutionrelative:cloudstorage\\services\\usernameprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyVaultProvider.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Services\\KeyVaultProvider.cs",
+              "RelativeDocumentMoniker": "CloudStorage\\Services\\KeyVaultProvider.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Services\\KeyVaultProvider.cs",
+              "RelativeToolTip": "CloudStorage\\Services\\KeyVaultProvider.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:23:23.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionStringProvider.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Services\\ConnectionStringProvider.cs",
+              "RelativeDocumentMoniker": "CloudStorage\\Services\\ConnectionStringProvider.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Services\\ConnectionStringProvider.cs",
+              "RelativeToolTip": "CloudStorage\\Services\\ConnectionStringProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:23:01.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlobServiceClientProvider.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Services\\BlobServiceClientProvider.cs",
+              "RelativeDocumentMoniker": "CloudStorage\\Services\\BlobServiceClientProvider.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Services\\BlobServiceClientProvider.cs",
+              "RelativeToolTip": "CloudStorage\\Services\\BlobServiceClientProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:22:57.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserNameProvider.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Services\\UserNameProvider.cs",
+              "RelativeDocumentMoniker": "CloudStorage\\Services\\UserNameProvider.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Services\\UserNameProvider.cs",
+              "RelativeToolTip": "CloudStorage\\Services\\UserNameProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T01:18:42.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Program.cs",
+              "RelativeDocumentMoniker": "CloudStorage\\Program.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Program.cs",
+              "RelativeToolTip": "CloudStorage\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:06:05.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageModel.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Models\\ImageModel.cs",
+              "RelativeDocumentMoniker": "CloudStorage\\Models\\ImageModel.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Models\\ImageModel.cs",
+              "RelativeToolTip": "CloudStorage\\Models\\ImageModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:19:39.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageEntity.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Entities\\1.1\\ImageEntity.cs",
+              "RelativeDocumentMoniker": "CloudStorage\\Entities\\1.1\\ImageEntity.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Entities\\1.1\\ImageEntity.cs",
+              "RelativeToolTip": "CloudStorage\\Entities\\1.1\\ImageEntity.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:07:58.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageEntity.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Entities\\1.0\\ImageEntity.cs",
+              "RelativeDocumentMoniker": "CloudStorage\\Entities\\1.0\\ImageEntity.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Entities\\1.0\\ImageEntity.cs",
+              "RelativeToolTip": "CloudStorage\\Entities\\1.0\\ImageEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:07:57.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Controllers\\1.1\\ImagesController.cs",
+              "RelativeDocumentMoniker": "CloudStorage\\Controllers\\1.1\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Controllers\\1.1\\ImagesController.cs",
+              "RelativeToolTip": "CloudStorage\\Controllers\\1.1\\ImagesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:07:49.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Controllers\\1.0\\ImagesController.cs",
+              "RelativeDocumentMoniker": "CloudStorage\\Controllers\\1.0\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Cloud Storage\\CloudStorage\\Controllers\\1.0\\ImagesController.cs",
+              "RelativeToolTip": "CloudStorage\\Controllers\\1.0\\ImagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:07:44.669Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F64AFCB0-7E3F-4F96-BB0A-1792C58FBD8C}|Worker\\Worker.csproj|c:\\users\\proni\\downloads\\spazard1 webprogramming2025 main lectures-10-21-2025 queues_kuscotopia\\worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64AFCB0-7E3F-4F96-BB0A-1792C58FBD8C}|Worker\\Worker.csproj|solutionrelative:worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AF4F82-4C17-442A-BE25-5AB496B3BA36}|Kuscotopia\\Kuscotopia.csproj|c:\\users\\proni\\downloads\\spazard1 webprogramming2025 main lectures-10-21-2025 queues_kuscotopia\\kuscotopia\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AF4F82-4C17-442A-BE25-5AB496B3BA36}|Kuscotopia\\Kuscotopia.csproj|solutionrelative:kuscotopia\\services\\queueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AF4F82-4C17-442A-BE25-5AB496B3BA36}|Kuscotopia\\Kuscotopia.csproj|c:\\users\\proni\\downloads\\spazard1 webprogramming2025 main lectures-10-21-2025 queues_kuscotopia\\kuscotopia\\wwwroot\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{40AF4F82-4C17-442A-BE25-5AB496B3BA36}|Kuscotopia\\Kuscotopia.csproj|solutionrelative:kuscotopia\\wwwroot\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AF4F82-4C17-442A-BE25-5AB496B3BA36}|Kuscotopia\\Kuscotopia.csproj|c:\\users\\proni\\downloads\\spazard1 webprogramming2025 main lectures-10-21-2025 queues_kuscotopia\\kuscotopia\\controllers\\overseercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AF4F82-4C17-442A-BE25-5AB496B3BA36}|Kuscotopia\\Kuscotopia.csproj|solutionrelative:kuscotopia\\controllers\\overseercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AF4F82-4C17-442A-BE25-5AB496B3BA36}|Kuscotopia\\Kuscotopia.csproj|c:\\users\\proni\\downloads\\spazard1 webprogramming2025 main lectures-10-21-2025 queues_kuscotopia\\kuscotopia\\wwwroot\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{40AF4F82-4C17-442A-BE25-5AB496B3BA36}|Kuscotopia\\Kuscotopia.csproj|solutionrelative:kuscotopia\\wwwroot\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AF4F82-4C17-442A-BE25-5AB496B3BA36}|Kuscotopia\\Kuscotopia.csproj|c:\\users\\proni\\downloads\\spazard1 webprogramming2025 main lectures-10-21-2025 queues_kuscotopia\\kuscotopia\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40AF4F82-4C17-442A-BE25-5AB496B3BA36}|Kuscotopia\\Kuscotopia.csproj|solutionrelative:kuscotopia\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E1E1EB-A19C-45F8-A22F-D67F87A0BACB}|Common\\Common.csproj|c:\\users\\proni\\downloads\\spazard1 webprogramming2025 main lectures-10-21-2025 queues_kuscotopia\\common\\entities\\workentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E1E1EB-A19C-45F8-A22F-D67F87A0BACB}|Common\\Common.csproj|solutionrelative:common\\entities\\workentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E1E1EB-A19C-45F8-A22F-D67F87A0BACB}|Common\\Common.csproj|c:\\users\\proni\\downloads\\spazard1 webprogramming2025 main lectures-10-21-2025 queues_kuscotopia\\common\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38E1E1EB-A19C-45F8-A22F-D67F87A0BACB}|Common\\Common.csproj|solutionrelative:common\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Worker\\Program.cs",
+              "RelativeDocumentMoniker": "Worker\\Program.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Worker\\Program.cs",
+              "RelativeToolTip": "Worker\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:23:24.859Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueueService.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Kuscotopia\\Services\\QueueService.cs",
+              "RelativeDocumentMoniker": "Kuscotopia\\Services\\QueueService.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Kuscotopia\\Services\\QueueService.cs",
+              "RelativeToolTip": "Kuscotopia\\Services\\QueueService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T02:23:17.572Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Kuscotopia\\wwwroot\\index.css",
+              "RelativeDocumentMoniker": "Kuscotopia\\wwwroot\\index.css",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Kuscotopia\\wwwroot\\index.css",
+              "RelativeToolTip": "Kuscotopia\\wwwroot\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-27T22:35:35.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OverseerController.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Kuscotopia\\Controllers\\OverseerController.cs",
+              "RelativeDocumentMoniker": "Kuscotopia\\Controllers\\OverseerController.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Kuscotopia\\Controllers\\OverseerController.cs",
+              "RelativeToolTip": "Kuscotopia\\Controllers\\OverseerController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T03:47:37.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Kuscotopia\\wwwroot\\index.js",
+              "RelativeDocumentMoniker": "Kuscotopia\\wwwroot\\index.js",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Kuscotopia\\wwwroot\\index.js",
+              "RelativeToolTip": "Kuscotopia\\wwwroot\\index.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-27T22:36:26.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Kuscotopia\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Kuscotopia\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Kuscotopia\\wwwroot\\index.html",
+              "RelativeToolTip": "Kuscotopia\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-28T01:11:31.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Credentials.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Common\\Credentials.cs",
+              "RelativeDocumentMoniker": "Common\\Credentials.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Common\\Credentials.cs",
+              "RelativeToolTip": "Common\\Credentials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:03:31.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkEntity.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Common\\Entities\\WorkEntity.cs",
+              "RelativeDocumentMoniker": "Common\\Entities\\WorkEntity.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Common\\Entities\\WorkEntity.cs",
+              "RelativeToolTip": "Common\\Entities\\WorkEntity.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T23:55:42.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

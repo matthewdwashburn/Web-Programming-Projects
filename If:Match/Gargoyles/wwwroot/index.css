@@ -1,0 +1,377 @@
+/*
+Author: Matthew Washburn
+Version: Fall 2025
+*/
+
+/* image background */
+body {
+    background-image: url(https://www.pjstar.com/gcdn/-mm-/f62f77f4bbcb22c0fa4c6d6a7fbbe6a141cbaf21/c=0-194-5108-3067/local/-/media/2020/10/31/Peoria/ghows_gallery-IP-110109995-c83d1cac.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Keeps background fixed while scrolling */
+    min-height: 100vh; /* Use min-height instead of height */
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* normal font */
+div {
+    font-style: normal;
+}
+
+/* fancy green button style */
+.greenButton {
+    background-color: rgb(0, 255, 136);
+    /* green background */
+    color: black;
+    /* black text */
+    border: 2px solid #717171;
+    /* dark gray border */
+    padding: 10px 20px;
+    /* some spacing */
+    border-radius: 5px;
+    /* slightly rounded corners */
+    cursor: pointer;
+    /* pointer on hover */
+}
+
+/* fancy hover over button style */
+.greenButton:hover {
+    background-color: #00ab53;
+    /* darker green when hovered */
+}
+
+/* white text */
+.colorWhite {
+    color: rgb(255, 255, 255);
+}
+
+/* big font */
+.big {
+    font-size: 30px;
+}
+
+#firstDiv {
+    font-weight: bold;
+}
+
+/* red text */
+.error {
+    color: red;
+}
+
+/* Earth, Water, Fire, Air Button Styles */
+
+/* Earth Button Styles */
+.earth-button {
+    background: linear-gradient(135deg, #8B4513 0%, #D2691E 50%, #8B4513 100%);
+    border: 3px solid #654321;
+    color: #FFF8DC;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    box-shadow: 0 4px 15px rgba(139, 69, 19, 0.5), inset 0 -2px 5px rgba(0, 0, 0, 0.3);
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+    .earth-button::before {
+        content: '';
+        position: absolute;
+        top: -50%;
+        left: -50%;
+        width: 200%;
+        height: 200%;
+        background: radial-gradient(circle, rgba(210, 180, 140, 0.3) 0%, transparent 70%);
+        animation: earthPulse 3s ease-in-out infinite;
+    }
+
+    .earth-button:hover:not(:disabled) {
+        background: linear-gradient(135deg, #A0522D 0%, #CD853F 50%, #A0522D 100%);
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(139, 69, 19, 0.7), inset 0 -2px 5px rgba(0, 0, 0, 0.3);
+    }
+
+    .earth-button:active:not(:disabled) {
+        transform: translateY(0px);
+        box-shadow: 0 2px 10px rgba(139, 69, 19, 0.5), inset 0 2px 5px rgba(0, 0, 0, 0.5);
+    }
+
+@keyframes earthPulse {
+    0%, 100% {
+        transform: translate(0, 0) scale(1);
+        opacity: 0.5;
+    }
+
+    50% {
+        transform: translate(10%, 10%) scale(1.1);
+        opacity: 0.8;
+    }
+}
+
+/* Water Button Styles */
+.water-button {
+    background: linear-gradient(135deg, #0077BE 0%, #00A8E8 50%, #0077BE 100%);
+    border: 3px solid #005A8C;
+    color: #E0F7FF;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 15px rgba(0, 119, 190, 0.6), inset 0 -2px 5px rgba(255, 255, 255, 0.3);
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+}
+
+    .water-button::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+        animation: waterFlow 2s linear infinite;
+    }
+
+    .water-button::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 30%;
+        background: repeating-linear-gradient( 90deg, rgba(255, 255, 255, 0.1) 0px, rgba(255, 255, 255, 0.2) 10px, rgba(255, 255, 255, 0.1) 20px );
+        animation: waterWave 1.5s ease-in-out infinite;
+    }
+
+    .water-button:hover:not(:disabled) {
+        background: linear-gradient(135deg, #0088CF 0%, #00B8F8 50%, #0088CF 100%);
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(0, 168, 232, 0.8), inset 0 -2px 5px rgba(255, 255, 255, 0.4);
+    }
+
+    .water-button:active:not(:disabled) {
+        transform: translateY(0px);
+        box-shadow: 0 2px 10px rgba(0, 119, 190, 0.6), inset 0 2px 5px rgba(0, 0, 0, 0.3);
+    }
+
+@keyframes waterFlow {
+    0% {
+        left: -100%;
+    }
+
+    100% {
+        left: 200%;
+    }
+}
+
+@keyframes waterWave {
+    0%, 100% {
+        transform: translateX(0);
+    }
+
+    50% {
+        transform: translateX(10px);
+    }
+}
+
+/* Fire Button Styles */
+.fire-button {
+    background: linear-gradient(135deg, #FF4500 0%, #FF6347 25%, #FF8C00 50%, #FF6347 75%, #FF4500 100%);
+    border: 3px solid #8B0000;
+    color: #FFFACD;
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(255, 69, 0, 0.8), 2px 2px 4px rgba(0, 0, 0, 0.7);
+    box-shadow: 0 4px 15px rgba(255, 69, 0, 0.7), inset 0 -2px 5px rgba(255, 140, 0, 0.5);
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    animation: fireGlow 2s ease-in-out infinite;
+}
+
+    .fire-button::before {
+        content: '';
+        position: absolute;
+        top: -50%;
+        left: 0;
+        width: 100%;
+        height: 200%;
+        background: linear-gradient( 180deg, rgba(255, 215, 0, 0.6) 0%, rgba(255, 140, 0, 0.4) 50%, transparent 100% );
+        animation: fireFlicker 0.5s ease-in-out infinite alternate;
+    }
+
+    .fire-button::after {
+        content: '';
+        position: absolute;
+        bottom: -5px;
+        left: 0;
+        width: 100%;
+        height: 20px;
+        background: radial-gradient(ellipse at center, rgba(255, 69, 0, 0.8) 0%, transparent 70%);
+        animation: fireBase 1s ease-in-out infinite;
+    }
+
+    .fire-button:hover:not(:disabled) {
+        background: linear-gradient(135deg, #FF5722 0%, #FF7043 25%, #FFA726 50%, #FF7043 75%, #FF5722 100%);
+        transform: translateY(-2px) scale(1.05);
+        box-shadow: 0 6px 25px rgba(255, 87, 34, 0.9), inset 0 -2px 5px rgba(255, 140, 0, 0.6);
+    }
+
+    .fire-button:active:not(:disabled) {
+        transform: translateY(0px) scale(1);
+        box-shadow: 0 2px 10px rgba(255, 69, 0, 0.7), inset 0 2px 5px rgba(139, 0, 0, 0.5);
+    }
+
+@keyframes fireGlow {
+    0%, 100% {
+        box-shadow: 0 4px 15px rgba(255, 69, 0, 0.7), inset 0 -2px 5px rgba(255, 140, 0, 0.5);
+    }
+
+    50% {
+        box-shadow: 0 4px 25px rgba(255, 140, 0, 0.9), inset 0 -2px 5px rgba(255, 215, 0, 0.7);
+    }
+}
+
+@keyframes fireFlicker {
+    0% {
+        opacity: 0.8;
+        transform: translateY(0) scaleY(1);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(-5px) scaleY(1.1);
+    }
+}
+
+@keyframes fireBase {
+    0%, 100% {
+        transform: scaleX(1);
+        opacity: 0.8;
+    }
+
+    50% {
+        transform: scaleX(1.2);
+        opacity: 1;
+    }
+}
+
+/* Disabled state for all buttons */
+.earth-button:disabled,
+.water-button:disabled,
+.fire-button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    animation: none;
+}
+
+    .earth-button:disabled::before,
+    .water-button:disabled::before,
+    .water-button:disabled::after,
+    .fire-button:disabled::before,
+    .fire-button:disabled::after {
+        animation: none;
+    }
+
+/* Air Button Styles */
+.air-button {
+    background: linear-gradient(135deg, #87CEEB 0%, #E0F6FF 50%, #B0E0E6 100%);
+    border: 3px solid #4682B4;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-shadow: 0 0 10px rgba(135, 206, 235, 0.8), 1px 1px 3px rgba(70, 130, 180, 0.5);
+    box-shadow: 0 4px 15px rgba(135, 206, 235, 0.5), inset 0 -2px 5px rgba(255, 255, 255, 0.4);
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    animation: airFloat 3s ease-in-out infinite;
+}
+
+    .air-button::before {
+        content: '';
+        position: absolute;
+        top: -100%;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: radial-gradient(circle, rgba(255, 255, 255, 0.6) 0%, transparent 60%);
+        animation: airSwirl 4s linear infinite;
+    }
+
+    .air-button::after {
+        content: '';
+        position: absolute;
+        top: 50%;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.8), transparent);
+        animation: airStream 2s ease-in-out infinite;
+    }
+
+    .air-button:hover:not(:disabled) {
+        background: linear-gradient(135deg, #ADD8E6 0%, #F0FFFF 50%, #B0E0E6 100%);
+        transform: translateY(-3px);
+        box-shadow: 0 6px 20px rgba(135, 206, 235, 0.7), inset 0 -2px 5px rgba(255, 255, 255, 0.5);
+    }
+
+    .air-button:active:not(:disabled) {
+        transform: translateY(-1px);
+        box-shadow: 0 3px 12px rgba(135, 206, 235, 0.6), inset 0 2px 5px rgba(70, 130, 180, 0.3);
+    }
+
+@keyframes airFloat {
+    0%, 100% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-5px);
+    }
+}
+
+@keyframes airSwirl {
+    0% {
+        transform: translate(0, 0) rotate(0deg);
+        opacity: 0.3;
+    }
+
+    50% {
+        transform: translate(50%, 100%) rotate(180deg);
+        opacity: 0.7;
+    }
+
+    100% {
+        transform: translate(100%, 200%) rotate(360deg);
+        opacity: 0.3;
+    }
+}
+
+@keyframes airStream {
+    0% {
+        left: -100%;
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        left: 100%;
+        opacity: 0;
+    }
+}
+
+.air-button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    animation: none;
+}
+
+    .air-button:disabled::before,
+    .air-button:disabled::after {
+        animation: none;
+    }

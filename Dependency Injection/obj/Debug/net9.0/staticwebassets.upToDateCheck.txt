@@ -1,0 +1,6 @@
+wwwroot\common.js
+wwwroot\styles.css
+wwwroot\index.html
+C:\Users\proni\Downloads\Visual Studio 2022\Project 4\wwwroot\common.js
+C:\Users\proni\Downloads\Visual Studio 2022\Project 4\wwwroot\index.html
+C:\Users\proni\Downloads\Visual Studio 2022\Project 4\wwwroot\styles.css

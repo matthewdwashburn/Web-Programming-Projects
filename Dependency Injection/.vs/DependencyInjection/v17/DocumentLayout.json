@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\project 4\\controllers\\hobbitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:controllers\\hobbitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\project 4\\filters\\requestidfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:filters\\requestidfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\project 4\\filters\\requestloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:filters\\requestloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\project 4\\filters\\stopwatchfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:filters\\stopwatchfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\project 4\\services\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:services\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\project 4\\services\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:services\\idatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\project 4\\services\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:services\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\project 4\\services\\irequestidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:services\\irequestidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\project 4\\services\\memorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:services\\memorydatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\project 4\\services\\requestidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:services\\requestidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\project 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|c:\\users\\proni\\downloads\\visual studio 2022\\project 4\\services\\stopwatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7615E517-8B79-FD61-A85E-DC32853E8268}|DependencyInjection.csproj|solutionrelative:services\\stopwatchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T03:32:08.219Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StopwatchService.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Services\\StopwatchService.cs",
+              "RelativeDocumentMoniker": "Services\\StopwatchService.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Services\\StopwatchService.cs",
+              "RelativeToolTip": "Services\\StopwatchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:03:34.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RequestIdGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Services\\RequestIdGenerator.cs",
+              "RelativeDocumentMoniker": "Services\\RequestIdGenerator.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Services\\RequestIdGenerator.cs",
+              "RelativeToolTip": "Services\\RequestIdGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:03:32.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MemoryDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Services\\MemoryDatabase.cs",
+              "RelativeDocumentMoniker": "Services\\MemoryDatabase.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Services\\MemoryDatabase.cs",
+              "RelativeToolTip": "Services\\MemoryDatabase.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:03:31.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRequestIdGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Services\\IRequestIdGenerator.cs",
+              "RelativeDocumentMoniker": "Services\\IRequestIdGenerator.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Services\\IRequestIdGenerator.cs",
+              "RelativeToolTip": "Services\\IRequestIdGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:03:30.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Services\\ILogger.cs",
+              "RelativeDocumentMoniker": "Services\\ILogger.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Services\\ILogger.cs",
+              "RelativeToolTip": "Services\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:03:28.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Services\\IDatabase.cs",
+              "RelativeDocumentMoniker": "Services\\IDatabase.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Services\\IDatabase.cs",
+              "RelativeToolTip": "Services\\IDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:03:25.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Services\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "Services\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Services\\ConsoleLogger.cs",
+              "RelativeToolTip": "Services\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:03:24.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StopwatchFilter.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Filters\\StopwatchFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\StopwatchFilter.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Filters\\StopwatchFilter.cs",
+              "RelativeToolTip": "Filters\\StopwatchFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:03:19.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestLoggingFilter.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Filters\\RequestLoggingFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\RequestLoggingFilter.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Filters\\RequestLoggingFilter.cs",
+              "RelativeToolTip": "Filters\\RequestLoggingFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:03:18.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestIdFilter.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Filters\\RequestIdFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\RequestIdFilter.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Filters\\RequestIdFilter.cs",
+              "RelativeToolTip": "Filters\\RequestIdFilter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T01:03:17.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HobbitsController.cs",
+              "DocumentMoniker": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Controllers\\HobbitsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HobbitsController.cs",
+              "ToolTip": "C:\\Users\\proni\\Downloads\\Visual Studio 2022\\Project 4\\Controllers\\HobbitsController.cs",
+              "RelativeToolTip": "Controllers\\HobbitsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T03:16:40.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

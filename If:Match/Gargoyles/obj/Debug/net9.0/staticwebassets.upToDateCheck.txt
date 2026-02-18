@@ -1,0 +1,6 @@
+wwwroot\index.css
+wwwroot\index.html
+wwwroot\index.js
+C:\Users\proni\Downloads\Visual Studio 2022\Gargoyles\Gargoyles\wwwroot\index.css
+C:\Users\proni\Downloads\Visual Studio 2022\Gargoyles\Gargoyles\wwwroot\index.html
+C:\Users\proni\Downloads\Visual Studio 2022\Gargoyles\Gargoyles\wwwroot\index.js

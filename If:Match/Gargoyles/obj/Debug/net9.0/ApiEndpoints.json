@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "Gargoyles.Controllers.GargoylesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Gargoyles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gargoyles.Controllers.GargoylesController",
+    "Method": "Post",
+    "RelativePath": "api/Gargoyles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gargoyleEntity",
+        "Type": "Gargoyles.Entities.GargoyleEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gargoyles.Controllers.GargoylesController",
+    "Method": "Get",
+    "RelativePath": "api/Gargoyles/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gargoyles.Controllers.GargoylesController",
+    "Method": "Put",
+    "RelativePath": "api/Gargoyles/{name}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "gargoyleEntity",
+        "Type": "Gargoyles.Entities.GargoyleEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Gargoyles.Controllers.GargoylesController",
+    "Method": "Patch",
+    "RelativePath": "api/Gargoyles/{name}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "gargoyleEntity",
+        "Type": "Gargoyles.Entities.GargoyleEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

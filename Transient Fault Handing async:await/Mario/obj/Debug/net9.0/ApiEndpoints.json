@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Mario.Controllers.MarioController",
+    "Method": "GetAsync",
+    "RelativePath": "api/Mario/{move}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "move",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

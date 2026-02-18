@@ -1,0 +1,34 @@
+<html>
+<script type="module">
+    import { registerStretchLevels } from "https://spazard1.github.io/webprogramming2025/src/stretchLevels.module.js";
+
+    window.addEventListener("load", () => {
+        registerStretchLevels([
+            "Gandalf Level",
+            "Legolas Level",
+            "Aragorn Level",
+        ]);
+    });
+</script>
+<head>
+<script type = 'text/javascript' src="common.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.js"
+        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/async/2.5.0/async.js"></script>
+<link rel="stylesheet" type="text/css" href="styles.css?v=2"></link>
+
+</head>
+
+<body id='thebody'>
+    <div class="colorWhite bigFont center">Dependency Injection Tests</div>
+    <br>
+    <br>
+    <form class="center">
+        <button type='button' id='startButton' class="greenButton">Start</button>
+    </form>
+
+    <div id="results" class="center"></div>
+
+</body>
+</html>

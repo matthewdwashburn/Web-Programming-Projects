@@ -1,0 +1,93 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Worker/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "4.0.1.1",
+          "AWSSDK.SQS": "4.0.1.11",
+          "Common": "1.0.0",
+          "Newtonsoft.Json": "13.0.4"
+        },
+        "runtime": {
+          "Worker.dll": {}
+        }
+      },
+      "AWSSDK.Core/4.0.1.1": {
+        "runtime": {
+          "lib/net8.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.1.1"
+          }
+        }
+      },
+      "AWSSDK.SQS/4.0.1.11": {
+        "dependencies": {
+          "AWSSDK.Core": "4.0.1.1"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.SQS.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.1.11"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.4": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.4.30916"
+          }
+        }
+      },
+      "Common/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.4"
+        },
+        "runtime": {
+          "Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Worker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/4.0.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RBaHkOZQ/cb84H6o2tNvyZv2Gv/lDOok5CgE6gJV2JC2s67mkBAAPWpPrqTDUH86ogmWFA8u8+37u1fvlj4nAA==",
+      "path": "awssdk.core/4.0.1.1",
+      "hashPath": "awssdk.core.4.0.1.1.nupkg.sha512"
+    },
+    "AWSSDK.SQS/4.0.1.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wGDz2XAScnsmNQOE82uIAf4LlZ77RTB0SHq2PxjrES6jNKHwjdhOfm+9wiszJle3Gz6T0/VPFm9fe4Qm68k7HA==",
+      "path": "awssdk.sqs/4.0.1.11",
+      "hashPath": "awssdk.sqs.4.0.1.11.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A==",
+      "path": "newtonsoft.json/13.0.4",
+      "hashPath": "newtonsoft.json.13.0.4.nupkg.sha512"
+    },
+    "Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

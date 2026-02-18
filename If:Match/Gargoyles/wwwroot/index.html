@@ -1,0 +1,52 @@
+<!-- 
+ Author: Matthew Washburn
+ Version: Fall 2025 
+-->
+
+<html>
+<!-- Register for all three stretch levels -->
+<script type="module">
+    import { registerStretchLevels } from "https://spazard1.github.io/webprogramming2025/src/stretchLevels.module.js";
+
+    window.addEventListener("load", () => {
+        registerStretchLevels([
+            "Hudson Level",
+            "Lexington Level",
+            "Goliath Level"
+        ]);
+    });
+</script>
+
+<head>
+    <title>Web Requests</title>
+    <!-- External stylesheet and script -->
+    <link rel="stylesheet" type="text/css" href="index.css?v=2" />
+    <script src="index.js"></script>
+</head>
+
+<body>
+    <!--  input fields -->
+    <div class="colorWhite">Name: <input type="text" id="name"></div>
+    <div class="colorWhite"> Color: <input type="text" id="color"></div>
+    <div class="colorWhite">Size: <input type="text" id="size"></div>
+    <div class="colorWhite">Gender: <input type="text" id="gender"></div>
+    <br>
+    <!-- Main action buttons -->
+    <div>
+        <input type="button" value="GET ALL" id="getAll" class="earth-button">
+        <input type="button" value="POST" id="post" class="air-button">
+        <input type="button" value="GET ONE" id="getOne" class="water-button">
+        <input type="button" value="PUT" id="put" class="fire-button">
+        <input type="button" value="PATCH" id="patch" class="fire-button">
+        <input type="button" value="PATCH OVERRIDE" id="patchOverride" class="fire-button">
+    </div>
+    <br>
+    <!-- Output areas -->
+    <div id="results" class="colorWhite"></div>
+    <br>
+    <div id="eTag" class="colorWhite"></div>
+    <!-- Error and secondary output areas -->
+    <div id="errorMessage" class="error"></div>
+</body>
+
+</html>

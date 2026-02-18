@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Kuscotopia.Controllers.OverseerController",
+    "Method": "PostAsync",
+    "RelativePath": "api/Overseer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "workCount",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

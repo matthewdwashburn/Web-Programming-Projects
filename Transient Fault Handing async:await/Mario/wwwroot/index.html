@@ -1,0 +1,51 @@
+<!-- 
+ Author: Matthew Washburn
+ Version: Fall 2025 
+-->
+
+<html>
+<!-- Register for first two stretch levels -->
+<script type="module">
+    import { registerStretchLevels } from "https://spazard1.github.io/webprogramming2025/src/stretchLevels.module.js";
+
+    window.addEventListener("load", () => {
+        registerStretchLevels([
+            "Toad House Level",
+            "Luigi's Mansion Level"
+        ]);
+    });
+</script>
+
+<head>
+    <title>Mario</title>
+    <!-- External stylesheet and script -->
+    <link rel="stylesheet" type="text/css" href="index.css?v=2" />
+    <script src="index.js"></script>
+</head>
+<body>
+    <div id="marioDiv">
+        <img id="mario"
+             src="https://supermariorun.com/assets/img/hero/hero_chara_mario_pc.png" />
+    </div>
+
+    <img src="https://toppng.com/uploads/thumbnail/super-mario-bros-cloud-sprites-super-mario-cloud-11562890585c6ojks4ppn.png"
+         class="cloud-1" />
+
+    <img src="https://toppng.com/uploads/thumbnail/super-mario-bros-cloud-sprites-super-mario-cloud-11562890585c6ojks4ppn.png"
+         class="cloud-2" />
+
+    <img src="https://toppng.com/uploads/thumbnail/super-mario-bros-cloud-sprites-super-mario-cloud-11562890585c6ojks4ppn.png"
+         class="cloud-3" />
+
+    <img id="goalPole"
+         src="https://mario.wiki.gallery/images/e/ea/SMM-NSMBU-GoalPole.png"
+         class="goal-pole" />
+
+    <button class="greenButton" id="startButton">Start!</button>
+    <div id="results"></div>
+
+
+
+</body>
+
+</html>

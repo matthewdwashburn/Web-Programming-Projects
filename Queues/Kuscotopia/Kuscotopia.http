@@ -1,0 +1,6 @@
+@Kuscotopia_HostAddress = http://localhost:5181
+
+GET {{Kuscotopia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jx1c4npczNo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\proni\\Downloads\\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\\Worker\\Worker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\proni\\.nuget\\packages\\awssdk.core\\4.0.1.1\\awssdk.core.4.0.1.1.nupkg.sha512",
+    "C:\\Users\\proni\\.nuget\\packages\\awssdk.sqs\\4.0.1.11\\awssdk.sqs.4.0.1.11.nupkg.sha512",
+    "C:\\Users\\proni\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

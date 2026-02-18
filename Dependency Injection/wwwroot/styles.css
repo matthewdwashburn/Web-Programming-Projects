@@ -1,0 +1,42 @@
+.results { font-size: 3em; }
+
+.fail {color: red; }
+
+.pass {color: green; }
+
+/* black background */
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.greenButton {
+    background-color: rgb(0, 255, 136); /* green background */
+    color: black; /* black text */
+    border: 2px solid #717171; /* dark gray border */
+    padding: 10px 20px; /* some spacing */
+    border-radius: 5px; /* slightly rounded corners */
+    cursor: pointer; /* pointer on hover */
+}
+
+/* fancy hover over button style */
+.greenButton:hover {
+    background-color: #00ab53;
+    /*dark green when hovered over*/
+}
+/* Make text white */
+.colorWhite {
+    color: rgb(255, 255, 255);
+}
+
+/* Big font */
+.bigFont {
+    font-size: 30px;
+}
+
+/* center contents */
+.center {
+    display: flex;
+    align-items: center; /*Horizontal Center*/
+    justify-content: center; /*Vertical Center*/
+}
+

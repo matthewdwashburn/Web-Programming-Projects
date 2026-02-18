@@ -1,0 +1,12 @@
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Common\bin\Debug\net9.0\Common.deps.json
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Common\bin\Debug\net9.0\Common.dll
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Common\bin\Debug\net9.0\Common.pdb
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Common\obj\Debug\net9.0\Common.csproj.AssemblyReference.cache
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Common\obj\Debug\net9.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Common\obj\Debug\net9.0\Common.AssemblyInfoInputs.cache
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Common\obj\Debug\net9.0\Common.AssemblyInfo.cs
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Common\obj\Debug\net9.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Common\obj\Debug\net9.0\Common.dll
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Common\obj\Debug\net9.0\refint\Common.dll
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Common\obj\Debug\net9.0\Common.pdb
+C:\Users\proni\Downloads\spazard1 webprogramming2025 main Lectures-10-21-2025 Queues_Kuscotopia\Common\obj\Debug\net9.0\ref\Common.dll

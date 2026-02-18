@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Kuscotopia\\Kuscotopia.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Worker\\Worker.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

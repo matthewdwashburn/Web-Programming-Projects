@@ -1,0 +1,34 @@
+<!-- 
+ Author: Matthew Washburn
+ Version: Fall 2025 
+-->
+
+<html>
+<!-- Register for all three stretch levels -->
+<script type="module">
+    import { registerStretchLevels } from "https://spazard1.github.io/webprogramming2025/src/stretchLevels.module.js";
+
+    window.addEventListener("load", () => {
+        registerStretchLevels([
+            "Kusco Level",
+            "Bucky the Squirrel Level",
+            "Pacha Level"
+        ]);
+    });
+</script>
+
+<head>
+    <title>Queues</title>
+    <!-- External stylesheet and script -->
+    <link rel="stylesheet" type="text/css" href="index.css" />
+    <script src="index.js"></script>
+</head>
+
+<body>
+    <!-- User input fields -->
+    <div class="centerDiv"><input type="text" id="workCount"></div>
+    <div class="centerDiv"><button id="startButton" class="fire-button">Start</button></div>
+    <div class="goldGlow centerDiv" id="results"></div>
+</body>
+
+</html>
